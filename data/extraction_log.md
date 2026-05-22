@@ -8,3 +8,4 @@
 | 002 | 20 | come up with, upcoming, come at, come on, come about, come down, come down with, come across, come as, come together, in this way, no way, by the way, on one's way to, on the way, voyage, deviation, personality, persona, personnel | personality 누락 후 추가, voyage 괄호 종류 수정 |
 | 003 | 13 | unpopular, daytime, day-to-day, update, dawn, dial, weekly, monthly, 숫자-month-old, moon, honeymoon, yearly, lively | 시각 오인으로 ~ -year/era/~ -year-old 잘못 포함했다 제거, unpopular/honeymoon 누락 후 추가, update 괄호 수정 |
 | 004 | 11 | live with, live on, short-lived, unlikely, likelihood, dislike, unseen, oversee, seem like, seemingly, insightful | oversee 동사변화표 영향으로 BOLD 오판했다가 추가 |
+| 005 | 10 | be about to V, behavioral, i.e. /id est, somewhere, somehow, somebody, had['d] better V, have difficulty ~ing, have nothing to do with, have to do with | 처음으로 한 번에 정답 (패턴 추론으로 being=BOLD 확신) |

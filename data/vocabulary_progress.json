@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "004",
+  "last_processed_index": "005",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -57,6 +57,18 @@
       {"word": "seem like", "meaning": "~처럼 보이다"},
       {"word": "seemingly", "meaning": "겉보기에"},
       {"word": "insightful", "meaning": "통찰력 있는"}
+    ],
+    "005": [
+      {"word": "be about to V", "meaning": "~하려는 참이다"},
+      {"word": "behavioral", "meaning": "행동의"},
+      {"word": "i.e. /id est", "meaning": "즉"},
+      {"word": "somewhere", "meaning": "어딘가에, 대략"},
+      {"word": "somehow", "meaning": "어떻게든, 어쨌든, 왠지"},
+      {"word": "somebody", "meaning": "어떤 사람, 누군가"},
+      {"word": "had['d] better V", "meaning": "~하는 편이 낫다"},
+      {"word": "have difficulty ~ing", "meaning": "~하며 고생하다"},
+      {"word": "have nothing to do with", "meaning": "~와 관련 없다"},
+      {"word": "have to do with", "meaning": "~와 관련 있다"}
     ]
   }
 }
