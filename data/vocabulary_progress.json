@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "006",
+  "last_processed_index": "007",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -83,6 +83,21 @@
       {"word": "take care of", "meaning": "~을 돌보다[맡다]"},
       {"word": "take part (in)", "meaning": "참가하다"},
       {"word": "take up", "meaning": "차지[계속]하다"}
+    ],
+    "007": [
+      {"word": "undertake", "meaning": "책임지다, 착수하다"},
+      {"word": "take after", "meaning": "~을 닮다[쫓다]"},
+      {"word": "take apart", "meaning": "분해하다"},
+      {"word": "take in", "meaning": "섭취하다, 들이다"},
+      {"word": "take off", "meaning": "이륙하다, 벗다, 쉬다"},
+      {"word": "take a trip", "meaning": "여행하다"},
+      {"word": "take a[the] risk (of)", "meaning": "위험을 감수하다"},
+      {"word": "take aback", "meaning": "깜짝 놀라다"},
+      {"word": "take for granted", "meaning": "~을 당연시하다"},
+      {"word": "take the place of", "meaning": "~을 대신하다"},
+      {"word": "uncanny", "meaning": "불가사의한, 이상한"},
+      {"word": "inner", "meaning": "내부의, 내적인"},
+      {"word": "inn", "meaning": "여관"}
     ]
   }
 }
