@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "010",
+  "last_processed_index": "013",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -150,6 +150,57 @@
       {"word": "gone", "meaning": "떠난, 지난, 죽은"},
       {"word": "ongoing", "meaning": "진행 중인"},
       {"word": "go with", "meaning": "어울리다"}
+    ],
+    "011": [
+      {"word": "at length", "meaning": "길게, 상세히"},
+      {"word": "prolong", "meaning": "연장하다[시키다]"},
+      {"word": "in the long run", "meaning": "결국에는"},
+      {"word": "long before", "meaning": "오래 전에"},
+      {"word": "lengthy", "meaning": "장황한, 긴"},
+      {"word": "long for", "meaning": "갈망하다, 그립다"},
+      {"word": "fewer than", "meaning": "~보다 적은"},
+      {"word": "no more than", "meaning": "~일 뿐, ~보다 이하인"},
+      {"word": "oneself", "meaning": "자기 자신, 스스로"},
+      {"word": "selfish", "meaning": "이기적인"}
+    ],
+    "012": [
+      {"word": "dismay", "meaning": "실망, 경악(하다)"},
+      {"word": "magic", "meaning": "마법, 마술"},
+      {"word": "excuse", "meaning": "변명, 용서하다"},
+      {"word": "excuse me", "meaning": "\"실례합니다\", \"잘 못 들었습니다\""},
+      {"word": "accuse", "meaning": "고발[비난]하다"},
+      {"word": "make sense", "meaning": "말[이해] 되다"},
+      {"word": "make up for", "meaning": "~을 보상[보충, 대체]하다"},
+      {"word": "makeup", "meaning": "화장(품), 구성"},
+      {"word": "make a difference", "meaning": "차이를 만들다, 변화시키다"},
+      {"word": "make (both) ends meet", "meaning": "수지타산 맞다"},
+      {"word": "make for", "meaning": "~에 기여하다, ~로 향하다"},
+      {"word": "make good", "meaning": "성공[보상]하다"},
+      {"word": "make sense of", "meaning": "~을 이해하다"},
+      {"word": "make a face", "meaning": "얼굴을 찌푸리다"},
+      {"word": "make happen", "meaning": "실현하다"},
+      {"word": "make over", "meaning": "바꾸다, 내다, 건네다"},
+      {"word": "utmost", "meaning": "최대의, 최고의"},
+      {"word": "most often", "meaning": "거의 항상[대부분]"}
+    ],
+    "013": [
+      {"word": "mobility", "meaning": "이동성, 운동성"},
+      {"word": "mobile", "meaning": "이동 가능한, 휴대 전화"},
+      {"word": "removal", "meaning": "제거, 이동, 철수"},
+      {"word": "remove from", "meaning": "~에서 없애다[꺼내다]"},
+      {"word": "at that time", "meaning": "그때(에)"},
+      {"word": "by the time", "meaning": "~(할)때에"},
+      {"word": "timing", "meaning": "시기 맞추기"},
+      {"word": "at times", "meaning": "때때로"},
+      {"word": "from time to time", "meaning": "가끔"},
+      {"word": "anytime", "meaning": "언제든지"},
+      {"word": "timetable", "meaning": "시간표"},
+      {"word": "for the time being", "meaning": "당분간"},
+      {"word": "in no time", "meaning": "즉시, 곧"},
+      {"word": "on time", "meaning": "제시간에"},
+      {"word": "real-time", "meaning": "실시간의, 동시의"},
+      {"word": "time-consuming", "meaning": "시간 걸리는"},
+      {"word": "all-time", "meaning": "역대의"}
     ]
   }
 }
