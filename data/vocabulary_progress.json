@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "007",
+  "last_processed_index": "008",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -98,6 +98,21 @@
       {"word": "uncanny", "meaning": "불가사의한, 이상한"},
       {"word": "inner", "meaning": "내부의, 내적인"},
       {"word": "inn", "meaning": "여관"}
+    ],
+    "008": [
+      {"word": "workplace", "meaning": "직장, 작업장"},
+      {"word": "at work", "meaning": "직장[업무]에서, 작동하는"},
+      {"word": "work out", "meaning": "운동하다, 잘 풀리다"},
+      {"word": "workshop", "meaning": "작업장, 연수회"},
+      {"word": "workman", "meaning": "노동자"},
+      {"word": "for good", "meaning": "영원히"},
+      {"word": "as for", "meaning": "~에 관해서"},
+      {"word": "forth", "meaning": "앞으로, 이후에"},
+      {"word": "willingly", "meaning": "자진해서, 기꺼이"},
+      {"word": "unwilling", "meaning": "내키지 않는"},
+      {"word": "renew", "meaning": "재개[갱신]하다"},
+      {"word": "renewable", "meaning": "재생[갱신]가능한"},
+      {"word": "from now (on)", "meaning": "지금부터"}
     ]
   }
 }
