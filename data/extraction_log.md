@@ -4,3 +4,6 @@
 
 | 이미지 | 추출 수 | 단어 목록 | 비고 |
 |--------|---------|-----------|------|
+| 001 | 4 | theirs, do without, don, come into | - |
+| 002 | 20 | come up with, upcoming, come at, come on, come about, come down, come down with, come across, come as, come together, in this way, no way, by the way, on one's way to, on the way, voyage, deviation, personality, persona, personnel | personality 누락 후 추가, voyage 괄호 종류 수정 |
+| 003 | 13 | unpopular, daytime, day-to-day, update, dawn, dial, weekly, monthly, 숫자-month-old, moon, honeymoon, yearly, lively | 시각 오인으로 ~ -year/era/~ -year-old 잘못 포함했다 제거, unpopular/honeymoon 누락 후 추가, update 괄호 수정 |

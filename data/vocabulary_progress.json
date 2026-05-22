@@ -1,5 +1,49 @@
 {
   "schema_version": 1,
-  "last_processed_index": null,
-  "images": {}
+  "last_processed_index": "003",
+  "images": {
+    "001": [
+      {"word": "theirs", "meaning": "그들의 것"},
+      {"word": "do without", "meaning": "~없이 지내다"},
+      {"word": "don", "meaning": "입다"},
+      {"word": "come into", "meaning": "~하게 되다, ~로 들어가다"}
+    ],
+    "002": [
+      {"word": "come up with", "meaning": "~을 마련하다, 떠올리다"},
+      {"word": "upcoming", "meaning": "임박한, 다가오는"},
+      {"word": "come at", "meaning": "오다, 덤비다"},
+      {"word": "come on", "meaning": "\"빨리\", 나오다, 작동하다"},
+      {"word": "come about", "meaning": "생기다, 이뤄지다"},
+      {"word": "come down", "meaning": "내리다, 떨어지다"},
+      {"word": "come down with", "meaning": "병 걸리다, 내놓다"},
+      {"word": "come across", "meaning": "~을 우연히 보다, 제공하다"},
+      {"word": "come as", "meaning": "~이다"},
+      {"word": "come together", "meaning": "합치다, 모이다"},
+      {"word": "in this way", "meaning": "이런 식으로"},
+      {"word": "no way", "meaning": "절대로 안 되는, \"안 돼\""},
+      {"word": "by the way", "meaning": "그런데, 도중에"},
+      {"word": "on one's way to", "meaning": "~로 가는 길에"},
+      {"word": "on the way", "meaning": "도중에"},
+      {"word": "voyage", "meaning": "항해(여행)(하다)"},
+      {"word": "deviation", "meaning": "일탈, 탈선, 편차"},
+      {"word": "personality", "meaning": "개성, 성격, 기질"},
+      {"word": "persona", "meaning": "등장 인물, 사람, 인성"},
+      {"word": "personnel", "meaning": "인사(과), 인력, 직원"}
+    ],
+    "003": [
+      {"word": "unpopular", "meaning": "인기 없는"},
+      {"word": "daytime", "meaning": "낮(시간), 주간"},
+      {"word": "day-to-day", "meaning": "나날의, 일상의"},
+      {"word": "update", "meaning": "최신화(갱신)(하다)"},
+      {"word": "dawn", "meaning": "새벽"},
+      {"word": "dial", "meaning": "숫자판"},
+      {"word": "weekly", "meaning": "매주의, 주마다"},
+      {"word": "monthly", "meaning": "매달의, 월간의"},
+      {"word": "숫자-month-old", "meaning": "생후 ~개월 된"},
+      {"word": "moon", "meaning": "달"},
+      {"word": "honeymoon", "meaning": "신혼여행"},
+      {"word": "yearly", "meaning": "연간의, 매년"},
+      {"word": "lively", "meaning": "활발한, 의욕적인"}
+    ]
+  }
 }
