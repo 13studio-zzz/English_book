@@ -1,0 +1,14 @@
+# 대용량 생성물
+cleaned/
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Claude
+.claude/
