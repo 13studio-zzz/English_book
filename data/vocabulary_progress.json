@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "013",
+  "last_processed_index": "016",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -201,6 +201,49 @@
       {"word": "real-time", "meaning": "실시간의, 동시의"},
       {"word": "time-consuming", "meaning": "시간 걸리는"},
       {"word": "all-time", "meaning": "역대의"}
+    ],
+    "014": [
+      {"word": "stand out", "meaning": "두드러지다"},
+      {"word": "statue", "meaning": "조각상"},
+      {"word": "stature", "meaning": "키, 성장"},
+      {"word": "outstanding", "meaning": "뛰어난, 눈에 띄는"},
+      {"word": "stand for", "meaning": "~을 용납[대표]하다"},
+      {"word": "bystander", "meaning": "구경꾼"},
+      {"word": "differ in", "meaning": "~에서 다르다"},
+      {"word": "indifferent", "meaning": "무관심한, 공평한"},
+      {"word": "differ from", "meaning": "~와 다르다"},
+      {"word": "thereby", "meaning": "그 때문에"},
+      {"word": "over there", "meaning": "저쪽에"},
+      {"word": "so there", "meaning": "그래서"},
+      {"word": "effectiveness", "meaning": "유효(성), 효과(적임)"},
+      {"word": "affectionate", "meaning": "다정한"}
+    ],
+    "015": [
+      {"word": "founder", "meaning": "창립자"},
+      {"word": "relativity", "meaning": "관련성, 상대성 이론(Relativity)"},
+      {"word": "unrelated", "meaning": "관계 없는"},
+      {"word": "relate", "meaning": "관련시키다, 이해[이야기]하다"},
+      {"word": "in[with] relation to", "meaning": "~에 비하여[관하여]"},
+      {"word": "irrelevant", "meaning": "무관한, 부적절한"},
+      {"word": "all but", "meaning": "거의"},
+      {"word": "all other", "meaning": "다른 모든"},
+      {"word": "knowledgeable", "meaning": "많이 아는"},
+      {"word": "renowned", "meaning": "유명한"},
+      {"word": "renown", "meaning": "명성"}
+    ],
+    "016": [
+      {"word": "look up", "meaning": "찾다, 보다"},
+      {"word": "look up to", "meaning": "~을 존경하다"},
+      {"word": "look after", "meaning": "~을 돌보다"},
+      {"word": "look in", "meaning": "들르다, 보다, ~에 담긴 표정"},
+      {"word": "look into", "meaning": "~을 살펴보다[조사하다]"},
+      {"word": "socially", "meaning": "사회[사교]적으로"},
+      {"word": "sociologist", "meaning": "사회학자"},
+      {"word": "sociable", "meaning": "사교적인"},
+      {"word": "no more than", "meaning": "~일 뿐, ~보다 이하인"},
+      {"word": "no more", "meaning": "더 안하는[없는]"},
+      {"word": "producer", "meaning": "생산자, 연출가"},
+      {"word": "productively", "meaning": "생산적으로"}
     ]
   }
 }
