@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "020",
+  "last_processed_index": "024",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -322,6 +322,59 @@
       {"word": "teen", "meaning": "10대의"},
       {"word": "teenager", "meaning": "청소년"},
       {"word": "dozens", "meaning": "많음, 수십"}
+    ],
+    "021": [
+      {"word": "factual", "meaning": "사실[실제]적인"},
+      {"word": "faculty", "meaning": "능력, 태도, 교수진"},
+      {"word": "uneven", "meaning": "불균등한"},
+      {"word": "unwanted", "meaning": "원치 않는"},
+      {"word": "as soon as", "meaning": "~하자마자"},
+      {"word": "outlet", "meaning": "배출구, 할인점"},
+      {"word": "outer", "meaning": "외부의, 외피의"},
+      {"word": "out there", "meaning": "그곳에, 밖에"}
+    ],
+    "022": [
+      {"word": "passing", "meaning": "통행[통과](하는), 일시적인, 합격"},
+      {"word": "passer", "meaning": "통행자, 합격자"},
+      {"word": "pass by", "meaning": "~을 지나가다"},
+      {"word": "pass away", "meaning": "돌아가시다, 없어지다"},
+      {"word": "surpass", "meaning": "능가하다"},
+      {"word": "compass", "meaning": "나침반, 둘러싸다"},
+      {"word": "encompass", "meaning": "포함하다, 둘러싸다"},
+      {"word": "above all", "meaning": "무엇보다"},
+      {"word": "forever", "meaning": "영원히, 항상"},
+      {"word": "from now (on)", "meaning": "지금부터"}
+    ],
+    "023": [
+      {"word": "try on", "meaning": "~을 해보다, 입어 보다"},
+      {"word": "specifically", "meaning": "명확히, 특히"},
+      {"word": "specialty", "meaning": "전문, 전공, 특성, 특산물"},
+      {"word": "height", "meaning": "높이, 키"},
+      {"word": "highlight", "meaning": "중요한[밝은]부분, 강조(하다)"},
+      {"word": "heighten", "meaning": "높이다"},
+      {"word": "highway", "meaning": "고속도로"},
+      {"word": "high-tech", "meaning": "첨단 기술의"},
+      {"word": "only after", "meaning": "~이후에야"},
+      {"word": "only if", "meaning": "~해야만"},
+      {"word": "as though", "meaning": "~인 것 같은"}
+    ],
+    "024": [
+      {"word": "in common", "meaning": "공동[공통적]으로"},
+      {"word": "uncommon", "meaning": "드문, 비상한"},
+      {"word": "commonplace", "meaning": "아주 흔한(것)"},
+      {"word": "commoner", "meaning": "평민"},
+      {"word": "communicator", "meaning": "전달자"},
+      {"word": "commute", "meaning": "통근하다"},
+      {"word": "communism", "meaning": "공산주의"},
+      {"word": "communist", "meaning": "공산주의자"},
+      {"word": "what if ~?", "meaning": "\"~면 어떡하지?\", \"~은 어떨까?\""},
+      {"word": "whatsoever", "meaning": "무엇이든지, 어떤 ~일지라도"},
+      {"word": "conclude with", "meaning": "~로 끝내다"},
+      {"word": "in conclusion", "meaning": "마지막으로, 결론적으로"},
+      {"word": "disclose", "meaning": "밝히다, 폭로하다"},
+      {"word": "disclosure", "meaning": "폭로"},
+      {"word": "healing", "meaning": "치료, 치유"},
+      {"word": "healthcare", "meaning": "의료 서비스"}
     ]
   }
 }
