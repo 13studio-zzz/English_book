@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "024",
+  "last_processed_index": "028",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -375,6 +375,69 @@
       {"word": "disclosure", "meaning": "폭로"},
       {"word": "healing", "meaning": "치료, 치유"},
       {"word": "healthcare", "meaning": "의료 서비스"}
+    ],
+    "025": [
+      {"word": "mankind", "meaning": "인류"},
+      {"word": "masculine", "meaning": "남성적인"},
+      {"word": "tell a lie", "meaning": "거짓말하다"},
+      {"word": "I'm telling you.", "meaning": "\"정말이야.\""},
+      {"word": "teller", "meaning": "말하는 사람, 출납원"},
+      {"word": "fairy tale", "meaning": "동화"},
+      {"word": "scientifically", "meaning": "과학적으로"},
+      {"word": "unscientific", "meaning": "비과학적인"},
+      {"word": "go[get] through", "meaning": "통과하다, 거치다, 끝내다"},
+      {"word": "thorough", "meaning": "철저한, 완전한"},
+      {"word": "throat", "meaning": "목구멍"},
+      {"word": "onto", "meaning": "~위에"},
+      {"word": "just on", "meaning": "거의, 곧장"}
+    ],
+    "026": [
+      {"word": "lay off", "meaning": "그만두다, 해고하다"},
+      {"word": "lay down", "meaning": "눕다, 내려놓다"},
+      {"word": "overlie", "meaning": "~위에 놓다[눕다]"},
+      {"word": "lay on", "meaning": "눕다, 놓다"},
+      {"word": "lazy", "meaning": "게으른"},
+      {"word": "liar", "meaning": "거짓말쟁이"},
+      {"word": "variable", "meaning": "(잘) 변하는, 변수"},
+      {"word": "variation", "meaning": "변화, 변형, 변주곡"},
+      {"word": "all but", "meaning": "거의"},
+      {"word": "anything but", "meaning": "(~이) 절대 아닌"},
+      {"word": "developmental", "meaning": "개발적인, 발달상의"},
+      {"word": "developer", "meaning": "개발자"},
+      {"word": "happen on", "meaning": "~에 일이 생기다, 마주치다"}
+    ],
+    "027": [
+      {"word": "concrete", "meaning": "구체적인"},
+      {"word": "grower", "meaning": "재배자, 사육자"},
+      {"word": "grow into", "meaning": "~로 성장하다"},
+      {"word": "if not", "meaning": "~않지만, 아니면"},
+      {"word": "if only", "meaning": "~라면 좋을 텐데"},
+      {"word": "studio", "meaning": "작업장, 연습실"},
+      {"word": "welfare", "meaning": "복지, 행복"},
+      {"word": "handful", "meaning": "한 줌의"},
+      {"word": "a handful of", "meaning": "소수의, 한 줌의"}
+    ],
+    "028": [
+      {"word": "handicap", "meaning": "장애, 불리함"},
+      {"word": "handicapped", "meaning": "장애 있는, 불리한"},
+      {"word": "handling", "meaning": "조종, 취급, 솜씨"},
+      {"word": "at hand", "meaning": "가까운"},
+      {"word": "hand over", "meaning": "넘겨주다"},
+      {"word": "greenhouse", "meaning": "온실"},
+      {"word": "blue", "meaning": "우울한, 파란색"},
+      {"word": "colorful", "meaning": "다채로운"},
+      {"word": "black and white", "meaning": "흑백의"},
+      {"word": "blackout", "meaning": "정전, 기절, 보도통제"},
+      {"word": "in black", "meaning": "흑자로"},
+      {"word": "blueprint", "meaning": "청사진"},
+      {"word": "graying", "meaning": "고령화, 노화"},
+      {"word": "disposition", "meaning": "기질, 배열, 배치"},
+      {"word": "posture", "meaning": "자세(취하다), 태세"},
+      {"word": "disposed", "meaning": "~하려 하는"},
+      {"word": "obsess", "meaning": "집착하다(시키다)"},
+      {"word": "dispose", "meaning": "처리[배치]하다"},
+      {"word": "dispose of", "meaning": "~을 처리하다"},
+      {"word": "round", "meaning": "둥근, 회전, 둘레에, 대략"}
     ]
   }
 }
