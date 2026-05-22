@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "003",
+  "last_processed_index": "004",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -44,6 +44,19 @@
       {"word": "honeymoon", "meaning": "신혼여행"},
       {"word": "yearly", "meaning": "연간의, 매년"},
       {"word": "lively", "meaning": "활발한, 의욕적인"}
+    ],
+    "004": [
+      {"word": "live with", "meaning": "~와 살다, 감내하다"},
+      {"word": "live on", "meaning": "~을 먹고 살다, ~에 살다"},
+      {"word": "short-lived", "meaning": "단명하는, 짧은"},
+      {"word": "unlikely", "meaning": "~할 것 같지 않은"},
+      {"word": "likelihood", "meaning": "가능성, 십중팔구"},
+      {"word": "dislike", "meaning": "싫어하다"},
+      {"word": "unseen", "meaning": "보이지 않는, 본적 없는"},
+      {"word": "oversee", "meaning": "감시[감독]하다"},
+      {"word": "seem like", "meaning": "~처럼 보이다"},
+      {"word": "seemingly", "meaning": "겉보기에"},
+      {"word": "insightful", "meaning": "통찰력 있는"}
     ]
   }
 }
