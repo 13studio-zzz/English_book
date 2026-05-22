@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "009",
+  "last_processed_index": "010",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -128,6 +128,28 @@
       {"word": "use up", "meaning": "~을 다 쓰다"},
       {"word": "so far", "meaning": "지금까지"},
       {"word": "lessen", "meaning": "줄(이)다"}
+    ],
+    "010": [
+      {"word": "activate", "meaning": "활성화[작동]하다"},
+      {"word": "interact", "meaning": "상호작용[소통]하다"},
+      {"word": "interactive", "meaning": "상호적인"},
+      {"word": "activation", "meaning": "활성화"},
+      {"word": "actress", "meaning": "여배우"},
+      {"word": "enact", "meaning": "입법하다"},
+      {"word": "act as", "meaning": "~의 역할을 하다"},
+      {"word": "anyway", "meaning": "어쨌든, 결국"},
+      {"word": "anyhow", "meaning": "어쨌든, 아무렇게나"},
+      {"word": "anybody", "meaning": "누구든지, 아무라도, 아무도"},
+      {"word": "any given", "meaning": "어떤 ~에서도"},
+      {"word": "with all", "meaning": "~에도 불구하고"},
+      {"word": "go through", "meaning": "통과하다, 겪다, 가다"},
+      {"word": "go ahead", "meaning": "진행하다, 앞서다"},
+      {"word": "go for", "meaning": "~하러 가다, ~을 좋아하다"},
+      {"word": "bygone", "meaning": "과거의"},
+      {"word": "go over", "meaning": "~로 건너가다, 검토하다"},
+      {"word": "gone", "meaning": "떠난, 지난, 죽은"},
+      {"word": "ongoing", "meaning": "진행 중인"},
+      {"word": "go with", "meaning": "어울리다"}
     ]
   }
 }
