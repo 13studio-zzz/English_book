@@ -9,3 +9,4 @@
 | 003 | 13 | unpopular, daytime, day-to-day, update, dawn, dial, weekly, monthly, 숫자-month-old, moon, honeymoon, yearly, lively | 시각 오인으로 ~ -year/era/~ -year-old 잘못 포함했다 제거, unpopular/honeymoon 누락 후 추가, update 괄호 수정 |
 | 004 | 11 | live with, live on, short-lived, unlikely, likelihood, dislike, unseen, oversee, seem like, seemingly, insightful | oversee 동사변화표 영향으로 BOLD 오판했다가 추가 |
 | 005 | 10 | be about to V, behavioral, i.e. /id est, somewhere, somehow, somebody, had['d] better V, have difficulty ~ing, have nothing to do with, have to do with | 처음으로 한 번에 정답 (패턴 추론으로 being=BOLD 확신) |
+| 006 | 12 | inability, disable, disabled, goodness, at best, none, not just ~ but also, take advantage of, intake, take care of, take part (in), take up | 한 번에 정답 (taking=BOLD 패턴 확인) |

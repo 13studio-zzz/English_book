@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "005",
+  "last_processed_index": "006",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -69,6 +69,20 @@
       {"word": "have difficulty ~ing", "meaning": "~하며 고생하다"},
       {"word": "have nothing to do with", "meaning": "~와 관련 없다"},
       {"word": "have to do with", "meaning": "~와 관련 있다"}
+    ],
+    "006": [
+      {"word": "inability", "meaning": "무능, 무력"},
+      {"word": "disable", "meaning": "무력하게 하다, 불구로 만들다"},
+      {"word": "disabled", "meaning": "불구의, 고장난"},
+      {"word": "goodness", "meaning": "선함, \"맙소사\""},
+      {"word": "at best", "meaning": "잘 해봐야"},
+      {"word": "none", "meaning": "없는, 아무도, ~않(-다)"},
+      {"word": "not just ~ but also", "meaning": "~뿐만 아니라 ~도"},
+      {"word": "take advantage of", "meaning": "~을 이용해 먹다"},
+      {"word": "intake", "meaning": "섭취(량), 흡입"},
+      {"word": "take care of", "meaning": "~을 돌보다[맡다]"},
+      {"word": "take part (in)", "meaning": "참가하다"},
+      {"word": "take up", "meaning": "차지[계속]하다"}
     ]
   }
 }
