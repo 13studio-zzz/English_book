@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_processed_index": "008",
+  "last_processed_index": "009",
   "images": {
     "001": [
       {"word": "theirs", "meaning": "그들의 것"},
@@ -113,6 +113,21 @@
       {"word": "renew", "meaning": "재개[갱신]하다"},
       {"word": "renewable", "meaning": "재생[갱신]가능한"},
       {"word": "from now (on)", "meaning": "지금부터"}
+    ],
+    "009": [
+      {"word": "partnership", "meaning": "동업 관계"},
+      {"word": "apartment", "meaning": "아파트"},
+      {"word": "partial", "meaning": "부분[편파]적인"},
+      {"word": "counterpart", "meaning": "상대(방), 대응물, 사본"},
+      {"word": "depart", "meaning": "출발하다, 떠나다"},
+      {"word": "take apart", "meaning": "분해하다"},
+      {"word": "useless", "meaning": "쓸모없는"},
+      {"word": "reuse", "meaning": "재사용[재생]하다"},
+      {"word": "reusable", "meaning": "재사용 가능한"},
+      {"word": "get used to", "meaning": "~에 익숙해지다"},
+      {"word": "use up", "meaning": "~을 다 쓰다"},
+      {"word": "so far", "meaning": "지금까지"},
+      {"word": "lessen", "meaning": "줄(이)다"}
     ]
   }
 }

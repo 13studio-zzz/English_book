@@ -44,6 +44,14 @@
 - **사례**: image 007 처리 중 `workplace`를 추가했으나 실제 image 008 첫 단어
 - **해결**: 분류기가 잡지 못한 하단 행이 있으면 다음 이미지에 속하는 것으로 간주. 추가하지 않음.
 
+### 실수 9: 섹션 헤더 + main BOLD 단어 병합으로 행 매핑 어긋남
+- **증상**: 분류기가 "섹션 구분자 + 헤더 + main BOLD 단어"를 한 GREEN 행으로 병합. 이후 단어들의 행 매핑이 한 칸씩 밀려 정답과 어긋남
+- **사례**: image 009 little 섹션에서 little(BOLD main)이 0033 헤더와 함께 Row 34에 병합 → unless를 a little로, lest를 unless로, lessen을 lest로 잘못 매핑하여 lest 잘못 포함, lessen 누락
+- **해결**:
+  1. 섹션 시작 후 첫 BOLD 단어의 y좌표를 픽셀로 확인 (high dark count, low G-avg)
+  2. 그 위치를 매핑 기준점으로 사용
+  3. 모든 행을 첫 BOLD 단어부터 순서대로 재매핑
+
 ### 실수 5: "X 없고" 표현을 "제외" 으로 오해석
 - **증상**: 사용자 "X 없고" 표현을 "X를 빼라"로 해석
 - **사례**: image 003에서 "unpopular, honeymoon 없고"를 "빼라"로 잘못 해석

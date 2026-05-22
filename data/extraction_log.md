@@ -12,3 +12,4 @@
 | 006 | 12 | inability, disable, disabled, goodness, at best, none, not just ~ but also, take advantage of, intake, take care of, take part (in), take up | 한 번에 정답 (taking=BOLD 패턴 확인) |
 | 007 | 13 | undertake, take after, take apart, take in, take off, take a trip, take a[the] risk (of), take aback, take for granted, take the place of, uncanny, inner, inn | undertake 누락(병합 GREEN 행 함정), workplace 페이지 경계 침범으로 제거 |
 | 008 | 13 | workplace, at work, work out, workshop, workman, for good, as for, forth, willingly, unwilling, renew, renewable, from now (on) | 한 번에 정답 |
+| 009 | 13 | partnership, apartment, partial, counterpart, depart, take apart, useless, reuse, reusable, get used to, use up, so far, lessen | 행 매핑 오프셋 오류로 lest 잘못 포함→제거, lessen 누락→추가 (실수 9 학습) |
